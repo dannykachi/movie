@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+ 
 }
 
 .App-logo {
@@ -36,3 +37,7 @@
     transform: rotate(360deg);
   }
 }
+/* *{
+  background-image: url("../public/logo192.png");
+  position: static;
+} */
